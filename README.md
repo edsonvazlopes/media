@@ -21,3 +21,17 @@ Exemplo:
 
 ```md
 ![VNUV Icon](https://raw.githubusercontent.com/edsonvazlopes/media/main/iconsVnuv/vnuv2.ico)
+
+
+cd C:\Dev\media
+
+git pull
+git status
+
+git add -A
+git status
+
+git commit -m "Update media assets"
+git push
+
+git diff --name-status --staged
